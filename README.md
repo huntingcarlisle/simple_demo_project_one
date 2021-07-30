@@ -33,3 +33,6 @@ Aim for 3-4 detailed paragraphs (or 8-10 smaller paragraphs, which is my persona
 3. Install dependencies with `pip install pandas matplotlib`
 4. Open Jupyter with `jupyter lab`
 5. Run Jupyter notebooks found in `/notebooks/` directory: Ingest, Clean, Visualize
+
+## Markdown Tips
+For a cheatsheet of formatting techniques for the README.md file—such as including images, links, headers, lists, and codeblocks—see [Adam P's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
