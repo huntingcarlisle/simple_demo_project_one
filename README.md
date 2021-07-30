@@ -1,4 +1,4 @@
-# simple_demo_project_one
+# Simple Demo for USC Data Project One
 A VERY rudimentary example of what project one might look like.
 
 ## Project Goal
@@ -36,3 +36,6 @@ Aim for 3-4 detailed paragraphs (or 8-10 smaller paragraphs, which is my persona
 
 ## Markdown Tips
 For a cheatsheet of formatting techniques for the README.md file—such as including images, links, headers, lists, and codeblocks—see [Adam P's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## Other examples:
+Check out the `unit_00_resources` folder in the curriculum repo for real-world student projects.
