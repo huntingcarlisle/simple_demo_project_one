@@ -1,3 +1,3 @@
-id,name,crew_capacity,wikipedia,launch_payload_lb
-dragon1,Dragon 1,0,https://en.wikipedia.org/wiki/SpaceX_Dragon,13228
-dragon2,Dragon 2,7,https://en.wikipedia.org/wiki/Dragon_2,13228
+version https://git-lfs.github.com/spec/v1
+oid sha256:7df87cf89df724f22843b36bf9d78f71d64bc130d27a1e6efb9eb79c5551cfca
+size 183
